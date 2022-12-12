@@ -11,11 +11,12 @@ This one in particular is also completely responsive so I've learned how to use 
 
 ## Credits
 
-[Traversy Media](https://www.youtube.com/c/TraversyMedia) - 
+[Traversy Media](https://www.youtube.com/watch?v=uKgn-To1C4Q) - Microsoft Homepage Clone - CSS Grid, Flex & Media Queries
 
 ## Link to the deployed website
-[Microsoft Website Clone](https://www.youtube.com/c/TraversyMedia) -
+[Microsoft Website Clone](xxx) - Microsoft 
 
 ## Final result
-![Starbucks clone](https://github.com/Clelia-M/starbucksclone/blob/ba4c408de9fcf072fb8d1ac032bda7cc90ced73b/Starbucks%20Clone%20TM_Final%20result.png)
+![Microsoft Clone Final Result](https://github.com/Clelia-M/microsoftclone/blob/2f66b7f394a1b551ebbd988e95d2dbbee4de2aa5/Microsoft%20CLONE_final%20result.png)
+![Microsoft Clone Final Result Mobile](https://github.com/Clelia-M/microsoftclone/blob/2f66b7f394a1b551ebbd988e95d2dbbee4de2aa5/Microsoft%20CLONE_Final%20result_Mobile.png)
 
